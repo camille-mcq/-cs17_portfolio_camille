@@ -1,0 +1,27 @@
+nav{
+    background-color: #ecac93;
+    opacity: 80%;
+    color: #ff293b;
+    border: 1px solid #ecac93;
+    display: flex;
+    justify-content: space-between;
+    font-size: 150%;
+    position: fixed;
+    width: 100%;
+}
+    .marcq{
+    
+    list-style-type: none;
+    display: flex;
+    padding: 15px;
+    }
+.onglet{
+    
+    list-style-type: none;
+    display: flex;
+    padding: 15px;
+}
+
+li{
+    padding: 8px;
+};
