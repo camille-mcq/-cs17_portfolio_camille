@@ -8,13 +8,20 @@
     margin: 0;
     padding: 0;
   }
-.Camille{
-    color: white;
-}
+  .Camille{
+      color: white;
+      font-size: 200%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 30%;
+      padding-top: 200px;
+
+  }
 .container{
     color: white;
     display: inline-block;
-    transform: translateY(+175px);
+    
 }
     .container>div{
         display: flex;

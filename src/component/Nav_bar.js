@@ -1,5 +1,5 @@
-
 import './Nav_bar.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 function Nav_bar() {
   return (
@@ -12,7 +12,7 @@ function Nav_bar() {
         <li>Skills</li>
         <li>Galerie</li>
         <li>Contact</li>
-      </ul>
+      </ul>     
       
     </nav>
   ); 

@@ -17,9 +17,9 @@ function Contact () {
             <div>
                 <img src={mail} alt="" id="mail"/>
                 <p>camille.marcq2@gmail.com</p>
-            </div>
-            
+            </div>            
           </div>
+          
         </div>
       );
 }
